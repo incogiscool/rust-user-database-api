@@ -27,10 +27,12 @@ It should return an ID that you can use to reference back to the user.
 To **delete** a user: send a `GET` request to your server (automatically is localhost:8000) to:
 `/user/delete/<user_id>`
 
+I suggest using the [Postman Desktop App](https://www.postman.com/downloads/) for running test and troubleshoot API requests.
+
 This was a personal project made by me for learning Rust and Rocket.rs. For any problems, suggestions, or improvements, please let me know via below.
 
 ```
 Github: @incogiscool
 Discord: incog#2102
-Instagram: (@)ada.m.8
+Instagram: @ada.m.8
 ```
